@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<listaPelicula>
+    <pelicula>
+        <director>Anna Boden Ryan Fleck</director>
+        <duracion>124</duracion>
+        <fechaEstreno>08/03/2019</fechaEstreno>
+        <precio>11.69</precio>
+        <protagonista>Brie Larson</protagonista>
+        <titulo>Capitana Marvel</titulo>
+        <id>2</id>
+    </pelicula>
+    <pelicula>
+        <director>Jon Favreau</director>
+        <duracion>126</duracion>
+        <fechaEstreno>02/05/2008</fechaEstreno>
+        <precio>39.99</precio>
+        <protagonista>Robert Downey Jr.</protagonista>
+        <titulo>Iron Man 1</titulo>
+        <id>3</id>
+    </pelicula>
+    <pelicula>
+        <director>Jon Favreau</director>
+        <duracion>124</duracion>
+        <fechaEstreno>30/04/2010</fechaEstreno>
+        <precio>7.95</precio>
+        <protagonista>Robert Downey Jr.</protagonista>
+        <titulo>Iron Man 2</titulo>
+        <id>4</id>
+    </pelicula>
+    <pelicula>
+        <director>Louis Leterrier</director>
+        <duracion>112</duracion>
+        <fechaEstreno>08/06/2008</fechaEstreno>
+        <precio>5.90</precio>
+        <protagonista>Edward Norton</protagonista>
+        <titulo>El increíble Hulk</titulo>
+        <id>5</id>
+    </pelicula>
+    <pelicula>
+        <director>Kenneth Branagh</director>
+        <duracion>115</duracion>
+        <fechaEstreno>17/04/2011</fechaEstreno>
+        <precio>11.90</precio>
+        <protagonista>Chris Hemsworth</protagonista>
+        <titulo>Thor</titulo>
+        <id>6</id>
+    </pelicula>
+    <pelicula>
+        <director>Joss Whedon</director>
+        <duracion>143</duracion>
+        <fechaEstreno>11/04/2012</fechaEstreno>
+        <precio>7.99</precio>
+        <protagonista>Robert Downey Jr., ...</protagonista>
+        <titulo>Los Vengadores</titulo>
+        <id>7</id>
+    </pelicula>
+    <pelicula>
+        <director>Shane Black</director>
+        <duracion>131</duracion>
+        <fechaEstreno>03/05/2013</fechaEstreno>
+        <precio>11.70</precio>
+        <protagonista>Robert Downey Jr.</protagonista>
+        <titulo>Iron Man 3</titulo>
+        <id>8</id>
+    </pelicula>
+    <pelicula>
+        <director>Alan Taylor</director>
+        <duracion>112</duracion>
+        <fechaEstreno>08/11/2013</fechaEstreno>
+        <precio>10.40</precio>
+        <protagonista>Chris Hemsworth</protagonista>
+        <titulo>Thor: El mundo oscuro</titulo>
+        <id>9</id>
+    </pelicula>
+    <pelicula>
+        <director>Hermanos Russo</director>
+        <duracion>136</duracion>
+        <fechaEstreno>04/04/2014</fechaEstreno>
+        <precio>10.89</precio>
+        <protagonista>Chris Evans</protagonista>
+        <titulo>Capitán América: El Soldado de Invierno</titulo>
+        <id>10</id>
+    </pelicula>
+    <pelicula>
+        <director>James Gunn</director>
+        <duracion>136</duracion>
+        <fechaEstreno>01/09/2014</fechaEstreno>
+        <precio>11.40</precio>
+        <protagonista>Chris Pratt</protagonista>
+        <titulo>Guardianes de la Galaxia</titulo>
+        <id>11</id>
+    </pelicula>
+    <pelicula>
+        <director>James Gunn</director>
+        <duracion>137</duracion>
+        <fechaEstreno>05/05/2017</fechaEstreno>
+        <precio>9.99</precio>
+        <protagonista>Chris Pratt</protagonista>
+        <titulo>Guardianes de la Galaxia Vol. 2</titulo>
+        <id>12</id>
+    </pelicula>
+</listaPelicula>
